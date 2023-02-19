@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d0e08d76-26bb-4d14-888d-a83b39139101" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../../../../Deep Learning for PhD/PycharmProject/Jan Updated Project/config.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Deep Learning for PhD/PycharmProject/Jan Updated Project/config.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Deep Learning for PhD/PycharmProject/Jan Updated Project/data/raw_data/README" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Deep Learning for PhD/PycharmProject/Jan Updated Project/data/raw_data/README" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Deep Learning for PhD/PycharmProject/Jan Updated Project/data/raw_data/altlex_dev.tsv" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Deep Learning for PhD/PycharmProject/Jan Updated Project/data/raw_data/altlex_dev.tsv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Deep Learning for PhD/PycharmProject/Jan Updated Project/data/raw_data/altlex_train_bootstrapped.tsv" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Deep Learning for PhD/PycharmProject/Jan Updated Project/data/raw_data/altlex_train_bootstrapped.tsv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Deep Learning for PhD/PycharmProject/Jan Updated Project/models/BiLSTM.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Deep Learning for PhD/PycharmProject/Jan Updated Project/models/BiLSTM.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Deep Learning for PhD/PycharmProject/Jan Updated Project/models/CNN.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Deep Learning for PhD/PycharmProject/Jan Updated Project/models/CNN.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Deep Learning for PhD/PycharmProject/Jan Updated Project/models/torch_DPCNN.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Deep Learning for PhD/PycharmProject/Jan Updated Project/models/torch_DPCNN.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Deep Learning for PhD/PycharmProject/Jan Updated Project/models/torch_DRNN.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Deep Learning for PhD/PycharmProject/Jan Updated Project/models/torch_DRNN.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Deep Learning for PhD/PycharmProject/Jan Updated Project/models/torch_MCDN.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Deep Learning for PhD/PycharmProject/Jan Updated Project/models/torch_MCDN.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Deep Learning for PhD/PycharmProject/Jan Updated Project/models/torch_SCRN.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Deep Learning for PhD/PycharmProject/Jan Updated Project/models/torch_SCRN.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Deep Learning for PhD/PycharmProject/Jan Updated Project/models/torch_SelfAttentive.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Deep Learning for PhD/PycharmProject/Jan Updated Project/models/torch_SelfAttentive.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Deep Learning for PhD/PycharmProject/Jan Updated Project/models/torch_TCN.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Deep Learning for PhD/PycharmProject/Jan Updated Project/models/torch_TCN.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Deep Learning for PhD/PycharmProject/Jan Updated Project/models/torch_TextCNN.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Deep Learning for PhD/PycharmProject/Jan Updated Project/models/torch_TextCNN.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Deep Learning for PhD/PycharmProject/Jan Updated Project/models/torch_TextRNN.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Deep Learning for PhD/PycharmProject/Jan Updated Project/models/torch_TextRNN.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Deep Learning for PhD/PycharmProject/Jan Updated Project/models/torch_TransBlocks.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Deep Learning for PhD/PycharmProject/Jan Updated Project/models/torch_TransBlocks.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Deep Learning for PhD/PycharmProject/Jan Updated Project/modules/attention_module.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Deep Learning for PhD/PycharmProject/Jan Updated Project/modules/attention_module.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Deep Learning for PhD/PycharmProject/Jan Updated Project/modules/torch_CNN.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Deep Learning for PhD/PycharmProject/Jan Updated Project/modules/torch_CNN.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Deep Learning for PhD/PycharmProject/Jan Updated Project/modules/torch_attention.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Deep Learning for PhD/PycharmProject/Jan Updated Project/modules/torch_attention.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Deep Learning for PhD/PycharmProject/Jan Updated Project/modules/torch_transformer.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Deep Learning for PhD/PycharmProject/Jan Updated Project/modules/torch_transformer.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Deep Learning for PhD/PycharmProject/Jan Updated Project/preprocess/torch_preprocess.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Deep Learning for PhD/PycharmProject/Jan Updated Project/preprocess/torch_preprocess.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Deep Learning for PhD/PycharmProject/Jan Updated Project/tmp/process_tmp.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Deep Learning for PhD/PycharmProject/Jan Updated Project/tmp/process_tmp.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Deep Learning for PhD/PycharmProject/Jan Updated Project/torch_main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Deep Learning for PhD/PycharmProject/Jan Updated Project/torch_main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Deep Learning for PhD/PycharmProject/Jan Updated Project/torch_run.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Deep Learning for PhD/PycharmProject/Jan Updated Project/torch_run.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Deep Learning for PhD/PycharmProject/Jan Updated Project/utils/torch_util.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Deep Learning for PhD/PycharmProject/Jan Updated Project/utils/torch_util.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../../../Deep Learning for PhD/PycharmProject/Jan Updated Project" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectId" id="2IWqRMbLKP9xaPDdZhEVZifGvlw" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/lab/PycharmProjects/pythonProject/ALI Causality Mining Project/modules&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;aDefault&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\lab\PycharmProjects\pythonProject\ALI Causality Mining Project\modules" />
+      <recent name="C:\Users\lab\PycharmProjects\pythonProject\ALI Causality Mining Project" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\lab\PycharmProjects\pythonProject\ALI Causality Mining Project\modules" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.python torch_run.py run --train=True">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="ALI Causality Mining Project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="python torch_run.py run --train=True" type="PythonConfigurationType" factoryName="Python">
+      <module name="ALI Causality Mining Project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\ProgramData\Anaconda3\envs\ALI Causality Mining Project\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="torch_run.py" />
+      <option name="PARAMETERS" value="run --train=True" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d0e08d76-26bb-4d14-888d-a83b39139101" name="Changes" comment="" />
+      <created>1670307677632</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1670307677632</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
